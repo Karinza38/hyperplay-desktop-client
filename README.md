@@ -1,4 +1,4 @@
-# HyperPlay
+HyperPlay
 
 ## Index
 
